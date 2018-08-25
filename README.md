@@ -1,1 +1,0 @@
-# Trat292 Objekty
