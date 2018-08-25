@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<cInputMapperBlueprint>
+	<Element>
+		<Value>
+			<Attribute name="RemapperName">
+				<cDeltaString>
+					<Element>
+						<Value />
+					</Element>
+				</cDeltaString>
+			</Attribute>
+			<Attribute name="Map">
+				<__Indexed__iInputMapper-cInputMapEntry>
+					<Element>
+						<Value />
+					</Element>
+				</__Indexed__iInputMapper-cInputMapEntry>
+			</Attribute>
+			<Attribute name="MapItem">
+				<__Indexed__iInputMapper-cInputMapEntry>
+					<Element>
+						<Value />
+					</Element>
+				</__Indexed__iInputMapper-cInputMapEntry>
+			</Attribute>
+		</Value>
+	</Element>
+</cInputMapperBlueprint>
