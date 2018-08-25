@@ -1,0 +1,31 @@
+Title: IGES Export Journal (built for Autodesk 3ds Max)
+==============================================================================
+File:
+C:\SteamLibrary\steamapps\common\RailWorks\Source\Zdenda\Budovy\Scenery\Building
+s\292_ZastavkaNoveLosiny.xlo
+Date: Tue, Jul 19, 2016
+Time: 23:05:44
+==============================================================================
+
+Translating IGES file:       
+C:\SteamLibrary\steamapps\common\RailWorks\Source\Zdenda\Budovy\Scenery\Building
+s\292_ZastavkaNoveLosiny.IGS
+
+==============================================================================
+Error Summary:
+
+The following message was issued 1 time(s)
+Model specified to be formatted does not contain any entities.
+
+Information: 0
+Status:      0
+Warning:     0
+Error:       1
+Fatal:       0
+
+Elapsed Time:
+
+Processor: 00:00:04
+Clock:     00:00:04
+==============================================================================
+
