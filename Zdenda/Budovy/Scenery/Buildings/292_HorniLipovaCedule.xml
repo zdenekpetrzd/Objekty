@@ -172,7 +172,7 @@
 							<Attribute name="Category">
 								<iBrowseableBlueprint-eBrowseableCategory>
 									<Element>
-										<Value>eUncategorised</Value>
+										<Value>eStations</Value>
 									</Element>
 								</iBrowseableBlueprint-eBrowseableCategory>
 							</Attribute>
